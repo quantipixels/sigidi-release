@@ -1,0 +1,15 @@
+{
+  "version": "0.0.34-nightly.20260826.1",
+  "channel": "nightly",
+  "source": {
+    "repository": "https://github.com/quantipixels/sigidi",
+    "revision": "59ba9010e453ad2740e7ae8f0c64bc7f6998918c"
+  },
+  "platform": "macOS arm64",
+  "bundleIdentifier": "com.quantipixels.sigidi.nightly",
+  "signing": {
+    "status": "Developer ID signed",
+    "teamIdentifier": "Y5BT2M29PF",
+    "notarization": "pending"
+  }
+}
